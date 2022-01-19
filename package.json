@@ -1,0 +1,16 @@
+{
+  "name": "medium-bazel-nodejs-getting-started",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abszissex/medium-bazel-nodejs-getting-started.git"
+  },
+  "author": "Pascal Zwikirsch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abszissex/medium-bazel-nodejs-getting-started/issues"
+  },
+  "homepage": "https://github.com/Abszissex/medium-bazel-nodejs-getting-started#readme"
+}
